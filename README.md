@@ -11,10 +11,10 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-## What you c
-CodeBook.md: explain how the analysis is performed
-Readme.md: this file, describing how to use files in the repo
-run_analysis.R: R script contains code to create a tidy data set
+## Files in this repo
+- CodeBook.md: explain how the analysis is performed
+- Readme.md: this file, describing how to use files in the repo
+- run_analysis.R: R script contains code to create a tidy data set
 
 ## How to create the required tidy data set
 - Create a empty folder called ```project``` and download the data from provided URL. Put the  ```UCI HAR Dataset``` folder into the ```project``` folder
