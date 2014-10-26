@@ -11,6 +11,8 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
+The goal of this project is to create a tidy data set containing the average of each variable for each activity and each subject.
+
 ## Files in this repo
 - CodeBook.md: explaining how the analysis is performed in run_analysis.R
 - Readme.md: this file, describing how to use files in the repo
