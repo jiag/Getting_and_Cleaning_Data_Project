@@ -12,11 +12,11 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Files in this repo
-- CodeBook.md: explain how the analysis is performed
+- CodeBook.md: explaining how the analysis is performed in run_analysis.R
 - Readme.md: this file, describing how to use files in the repo
-- run_analysis.R: R script contains code to create a tidy data set
+- run_analysis.R: R script containing code to create a tidy data set
 
 ## How to create the required tidy data set
-- Create a empty folder called ```project``` and download the data from provided URL. Put the  ```UCI HAR Dataset``` folder into the ```project``` folder
-- Download the ```run_analysis.R``` file and put it in the ```project``` folder. Set you working directory as ```~/pathtoprojectfolder/project```.
+- Create a empty folder called ```project``` and download the data from provided URL above. Put the unzipped ```UCI HAR Dataset``` folder into the ```project``` folder
+- Download the ```run_analysis.R``` file and put it in the ```project``` folder. Set you working directory as ```~/path_to_your_project_folder/project```.
 - Source the ```run_analysis.R``` file(the ```plyr``` package is required) and the tidy_data.txt file containing the tidy data set will be created in the ```project``` folder.
